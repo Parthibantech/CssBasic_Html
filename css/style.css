@@ -1,0 +1,22 @@
+html{
+    font-size: 22px;
+    border: 5px solid red;
+}
+
+h1,h2{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+
+.red{
+    color:grey;
+    font-style: italic;
+}
+
+#first{
+    color: aqua;
+}
+
